@@ -8,9 +8,9 @@
 
 <h2 align="left">About me</h2>
 
-###
+##
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: I want to create a Production level Application <br>🎲 Fun fact: As a kid, I wanted to be an Software Engineer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: I want to create a Production level Application <br>  🔭 I’m currently working on my portfolio and CV.  <br> 👯 I am looking to collaborate on startup-based projects and internships. <br> 🌐 Committed to creating inclusive and accessible software <br> 🎲 Fun fact: As a kid, I wanted to be a Software Engineer <br>😄 Pronouns: He/His </p>
 
 ###
 
@@ -32,3 +32,8 @@
 
 
 ###
+
+<h2 align="left">My Portfolio</h2>
+<a href="https://portfolio-website-teal-ten-94.vercel.app/" target="_blank"><img src= "https://github.com/Mehta0007/img/blob/main/download%20portfolio%20dp.png" alt="My-Portfolio" width="40%"></a>
+
+
