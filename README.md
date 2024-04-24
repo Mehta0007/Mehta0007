@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ankit Mehta and I'm a Front-end developer, from Delhi NCR</p>
+<p align="left">My name is Ankit Mehta and I'm a Front-end developer, from INDIA</p>
 
 ###
 
