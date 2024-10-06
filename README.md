@@ -10,7 +10,7 @@
 
 ##
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: I want to create a Production level Application <br>  🔭 I’m currently working on my portfolio and CV.  <br> 👯 I am looking to collaborate on startup-based projects and internships. <br> 🌐 Committed to creating inclusive and accessible software <br> 🎲 Fun fact: As a kid, I wanted to be a Software Engineer <br>😄 Pronouns: He/Him </p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nextjs<br>🎯 Goals: I want to create a Production level Application <br>  🔭 I’m currently working on creating a production grade Application.  <br> 👯 I am looking to collaborate on startup-based projects and internships. <br> 🌐 Committed to creating inclusive and accessible software <br> 🎲 Fun fact: As a kid, I wanted to be a Software Engineer <br>😄 Pronouns: He/Him </p>
 
 ###
 
