@@ -40,23 +40,23 @@
 <h2 align="left">My Projects</h2>
 
 <a href="https://to-do-js-alpha.vercel.app/" target="_blank">
-  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202025-03-12%20204436.png" alt="To-Do App" width="35%">
   <p align="center"><b>To-Do App</b></p>
+  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202025-03-12%20204436.png" alt="To-Do App" width="35%">
 </a>
 
 <a href="https://currency-converter-red-six.vercel.app/" target="_blank">
-  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202025-03-12%20204839.png" alt="Currency Converter" width="35%">
   <p align="center"><b>Currency Converter</b></p>
+  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202025-03-12%20204839.png" alt="Currency Converter" width="35%">
 </a>
 
 <a href="https://wheather-app-wine.vercel.app/" target="_blank">
-  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202024-04-24%20001008.png" alt="Weather App" width="35%">
   <p align="center"><b>Weather App</b></p>
+  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202024-04-24%20001008.png" alt="Weather App" width="35%">
 </a>
 
 <a href="https://notes-app-opal-ten.vercel.app/" target="_blank">
-  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202024-04-24%20042640.png" alt="Notes App" width="35%">
   <p align="center"><b>Notes App</b></p>
+  <img src="https://github.com/Mehta0007/img/blob/main/Screenshot%202024-04-24%20042640.png" alt="Notes App" width="35%">
 </a>
 
 
