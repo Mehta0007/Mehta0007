@@ -34,7 +34,7 @@
 ###
 
 <h2 align="left">My Portfolio</h2>
-<a href="https://portfolio-website-teal-ten-94.vercel.app/" target="_blank"><img src= "https://github.com/Mehta0007/img/blob/main/download%20portfolio%20dp.png" alt="My-Portfolio" width="40%"></a>
+<a href="https://portfolio-02-dokm.vercel.app/" target="_blank"><img src= "https://github.com/Mehta0007/img/blob/main/download%20portfolio%20dp.png" alt="My-Portfolio" width="40%"></a>
 
 ###
 <h2 align="left">My Projects</h2>
