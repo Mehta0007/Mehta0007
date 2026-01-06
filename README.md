@@ -12,12 +12,16 @@
 
 ────────────────────────────────────────────
 
-## <code>→ what i'm up to</code>
+## <code>→ projects i like ✨</code>
 
-- 🗒️ **Brogram** — https://brogram-workout-app.vercel.app    
-- 💱 **Currency Converter** — https://currency-converter-red-six.vercel.app    
-- 🌤️ **Weather App** — https://wheather-app-wine.vercel.app    
-- ✅ **To-Do App** — https://to-do-js-alpha.vercel.app    
+<ul>
+  <li>🗒️ <b>Brogram</b> — https://brogram-workout-app.vercel.app</li>
+  <li>💱 <b>Currency Converter</b> — https://currency-converter-red-six.vercel.app</li>
+  <li>🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app</li>
+  <li>✅ <b>To-Do App</b> — https://to-do-js-alpha.vercel.app</li>
+</ul>
+
+
 
 <sub>// TODO: become senior dev before coffee gets cold</sub>
 
