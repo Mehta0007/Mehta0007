@@ -12,16 +12,12 @@
 
 ────────────────────────────────────────────
 
-## <code>→ projects i like ✨</code>
+## <code>→ what i'm up to</code>
 
-<ul>
-  <li>🗒️ <b>Brogram</b> — https://brogram-workout-app.vercel.app</li>
-  <li>💱 <b>Currency Converter</b> — https://currency-converter-red-six.vercel.app</li>
-  <li>🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app</li>
-  <li>✅ <b>To-Do App</b> — https://to-do-js-alpha.vercel.app</li>
-</ul>
-
-
+- learning <b>Next.js deeply</b>  
+- building <b>production-grade apps</b>  
+- sometimes breaking things, always fixing them 🙂  
+- chasing clean UI + smooth UX  
 
 <sub>// TODO: become senior dev before coffee gets cold</sub>
 
@@ -49,10 +45,10 @@
 
 ## <code>→ projects i like ✨</code>
 
-🗒️ <b>Brogram</b> — https://brogram-workout-app.vercel.app 
-💱 <b>Currency Converter</b> — https://currency-converter-red-six.vercel.app  
-🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app  
+🗒️ <b>Brogram</b> — https://brogram-workout-app.vercel.app  
 ✅ <b>To-Do App</b> — https://to-do-js-alpha.vercel.app  
+🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app  
+💱 <b>Currency Converter</b> — https://currency-converter-red-six.vercel.app  
 
 <sub>(more in progress… obviously 😄)</sub>  
 <sub>commit message: final-final-FINAL-v2</sub>
