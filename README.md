@@ -14,10 +14,10 @@
 
 ## <code>→ what i'm up to</code>
 
-- learning <b>Next.js deeply</b>  
-- building <b>production-grade apps</b>  
-- sometimes breaking things, always fixing them 🙂  
-- chasing clean UI + smooth UX  
+- 🗒️ **Brogram** — https://brogram-workout-app.vercel.app    
+- 💱 **Currency Converter** — https://currency-converter-red-six.vercel.app    
+- 🌤️ **Weather App** — https://wheather-app-wine.vercel.app    
+- ✅ **To-Do App** — https://to-do-js-alpha.vercel.app    
 
 <sub>// TODO: become senior dev before coffee gets cold</sub>
 
