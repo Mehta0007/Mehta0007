@@ -45,10 +45,10 @@
 
 ## <code>→ projects i like ✨</code>
 
-🗒️ <b>Notes App</b> — https://notes-app-opal-ten.vercel.app  
-✅ <b>To-Do App</b> — https://to-do-js-alpha.vercel.app  
-🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app  
+🗒️ <b>Brogram</b> — https://brogram-workout-app.vercel.app 
 💱 <b>Currency Converter</b> — https://currency-converter-red-six.vercel.app  
+🌤️ <b>Weather App</b> — https://wheather-app-wine.vercel.app  
+✅ <b>To-Do App</b> — https://to-do-js-alpha.vercel.app  
 
 <sub>(more in progress… obviously 😄)</sub>  
 <sub>commit message: final-final-FINAL-v2</sub>
